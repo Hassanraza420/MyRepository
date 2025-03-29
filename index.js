@@ -11,7 +11,7 @@ app.get('/facebook' ,(req ,res) =>{
 })
 
 app.get('/login', (req , res) =>{
-    res.send('<h1>please login at NexGen Squad</h1>')
+    res.send('<h1>please login at NexGen Squad !</h1>')
 })
 app.get('/Youtube', (req , res) =>{
     res.send('<h1>Welcome youtube</h1>')
